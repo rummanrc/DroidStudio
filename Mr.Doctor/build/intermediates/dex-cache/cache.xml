@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_ab72c4ee1cb6367b34b71c3e00591bef8dd84d18.jar" />
+    </item>
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_f26cf6232fe9d7dc8c14a28172273a57f66b6d29.jar" />
+    </item>
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_03124a6b6e987e1e168aa7e77a271b9523351820.jar" />
+    </item>
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="253877c668130e8d681fe2107af24b30dca83ddd">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\instant-run_ddcf155b9729558cfa26d20dbc33b839f02b608f.jar" />
+    </item>
+    <item
+        jar="J:\SDK\SDKyoyo\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_cd1d6d2b5c0892e8bdd89e400a25ad0bb07d1e60.jar" />
+    </item>
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_20c36e0ce5fd40b8abc3eab748dcc96902a25b27.jar" />
+    </item>
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6071bbd4b32a386aa46a74ef34a637590129fe44">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6e67ba4c26dbf7e0cab74a10bff5756ecb2ecf19.jar" />
+    </item>
+    <item
+        jar="F:\Mr.Doctor\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\Mr.Doctor\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_59af9a03a7133fbb29849fcf1be9f774af23cc7d.jar" />
+    </item>
+
+</items>
